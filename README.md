@@ -1,3 +1,5 @@
+![EduConnect Banner](banner.png)
+
 # 🚀 EduConnect - OpenHack 2026
 ### Mehran University Khairpur | Khairpur, Sindh, PK
 
