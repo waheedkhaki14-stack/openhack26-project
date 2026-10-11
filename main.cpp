@@ -12,7 +12,7 @@ int main() {
     cout << "--- EduConnect - OpenHack 2026 ---" << endl;
     cout << "Mehran University Khairpur" << endl;
     int n;
-    cout << "Kitne students? ";
+    cout <<"Kitne students? ";
     cin >> n;
     Student s[100];
     for(int i=0; i<n; i++){
