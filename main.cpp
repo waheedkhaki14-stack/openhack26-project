@@ -9,7 +9,7 @@ struct Student {
 };
 
 int main() {
-    cout << "--- EduConnect - OpenHack 2026 ---" << endl;
+    cout << "-- EduConnect - OpenHack 2026 --"<<endl;
     cout << "Mehran University Khairpur" << endl;
     int n;
     cout <<"Kitne students? ";
